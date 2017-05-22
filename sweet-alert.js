@@ -653,6 +653,9 @@
     if (!params.showConfirmButton && !params.showCancelButton) {
       hide($btnSpacer);
     }
+    else {
+      show($btnSpacer);
+    }
 
     // Edit text on cancel and confirm buttons
     $confirmBtn.innerHTML = escapeHtml(params.confirmButtonText);

@@ -1,6 +1,6 @@
 Package.describe({
     name: 'teachergaming:sweet-alert',
-    version: '1.0.4',
+    version: '1.0.5',
 
     // Brief, one-line summary of the package.
     summary: 'Just raw sweet alert 2 lib',
